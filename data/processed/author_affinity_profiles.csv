@@ -1,0 +1,182 @@
+author_id,author_name,primary_genre,books_read,total_pages_read,avg_rating,median_rating,affinity_score,bayesian_score,author_tier,top_rated_book,max_rating,five_star_count,four_plus_count
+82,J.D. Robb,Mystery,57,21124,3.89,4,222,3.89,Tier 1: Core All-Time Favorite,"Visions in Death (In Death, #19)",5,6,45
+143,M.C. Beaton,Mystery,38,9001,3.5,3.5,133,3.52,Tier 1: Core All-Time Favorite,"Death of a Travelling Man (Hamish Macbeth, #9)",4,0,19
+3,Agatha Christie,Mystery,30,7657,4,4,120,3.99,Tier 1: Core All-Time Favorite,"Dumb Witness (Hercule Poirot, #17)",5,8,22
+155,Michael Connelly,Mystery,22,9388,3.68,4,81,3.7,Tier 1: Core All-Time Favorite,"The Dark Hours (Renée Ballard, #4; Harry Bosch, #23; Harry Bosch Universe, #36)",4,0,15
+135,Lisa Gardner,Mystery,15,5955,4.4,5,66,4.34,Tier 1: Core All-Time Favorite,Never Tell (Detective D.D. Warren #10),5,8,13
+81,Isis Crawford,Mystery,16,5300,3.62,4,58,3.65,Tier 1: Core All-Time Favorite,"A Catered Birthday Party (A Mystery with Recipes, #6)",5,1,9
+67,G.A. McKevett,Mystery,14,4359,3.5,3,49,3.55,Tier 1: Core All-Time Favorite,"Just Desserts (A Savannah Reid Mystery, #1)",5,1,6
+27,Barbara Ross,Mystery,12,3322,4,4,48,3.98,Tier 1: Core All-Time Favorite,"Hidden Beneath (A Maine Clambake Mystery, #11)",5,1,11
+57,Elin Hilderbrand,Romance,10,3724,4.4,5,44,4.31,Tier 1: Core All-Time Favorite,The Hotel Nantucket,5,6,8
+19,Anthony Horowitz,Mystery,9,3908,4.44,5,40,4.34,Tier 1: Core All-Time Favorite,Marble Hall Murders,5,6,7
+85,Jana Deleon,Mystery,10,2643,3.9,4,39,3.89,Tier 3: Solid Frequent Author,"Swamp Team 3 (Miss Fortune Mystery, #4)",5,2,7
+174,Sandra Balzo,Mystery,8,1700,4.75,5,38,4.57,Tier 2: Highly Regarded Author,Brew Unto Others (A Maggy Thorsen Mystery Book 17),5,6,8
+15,Angie Sage,Fantasy,7,3952,4.57,5,32,4.41,Tier 2: Highly Regarded Author,Syren (Septimus Heap #5),5,4,7
+133,Leslie Langtry,Mystery,8,2716,3.75,4,30,3.77,Tier 3: Solid Frequent Author,Method Actor Murder (Merry Wrath Mysteries Book 25),4,0,6
+93,Jenny Nimmo,Fantasy,6,2037,4.67,5,28,4.47,Tier 2: Highly Regarded Author,"Charlie Bone and the Castle of Mirrors (Children of the Red King, #4)",5,4,6
+167,Rick Riordan,Fantasy,6,1905,4.67,5,28,4.47,Tier 2: Highly Regarded Author,"The Chalice of the Gods (Percy Jackson and the Olympians: The Senior Year Adventures, #1)",5,5,5
+76,Harlan Coben,Thriller,7,2670,3.86,4,27,3.86,Tier 3: Solid Frequent Author,Gone for Good,5,1,5
+32,Bree Baker,Mystery,6,2010,4.33,4.5,26,4.22,Tier 2: Highly Regarded Author,"Tide and Punishment (Seaside Café Mystery, #3)",5,3,5
+139,Louis Sachar,Children's Fiction,4,749,5,5,20,4.62,Tier 2: Highly Regarded Author,"Wayside School Beneath the Cloud of Doom (Wayside School, #4)",5,4,4
+29,Benjamin Stevenson,Mystery,4,893,4.75,5,19,4.45,Tier 2: Highly Regarded Author,"Everyone This Christmas Has a Secret (Ernest Cunningham, #3)",5,3,4
+6,Alafair Burke,Mystery,5,1926,3.8,4,19,3.82,Tier 3: Solid Frequent Author,"All Day and a Night (Ellie Hatcher, #5)",4,0,4
+54,Donna Andrews,Mystery,5,1498,3.8,4,19,3.82,Tier 3: Solid Frequent Author,Between a Flock and a Hard Place (Meg Langslow #35),5,1,3
+44,Christina Lauren,Romance,4,1599,4.25,4,17,4.12,Tier 2: Highly Regarded Author,"The True Love Experiment (DNA Duo, #2)",5,1,4
+53,Diane Mott Davidson,Mystery,5,1891,3.35,3,16.75,3.5,Tier 3: Solid Frequent Author,"The Cereal Murders (A Goldy Bear Culinary Mystery, #3)",4,0,1
+166,Richard Osman,Mystery,4,1489,4,4,16,3.95,Tier 2: Highly Regarded Author,"The Impossible Fortune (Thursday Murder Club, #5)",4,0,4
+190,Valerie Burns,Mystery,4,1219,4,4,16,3.95,Tier 2: Highly Regarded Author,"A Cup of Flour, A Pinch of Death (Baker Street Mystery #3)",5,1,3
+87,Janice Hallett,Mystery,4,1551,3.75,4,15,3.79,Tier 3: Solid Frequent Author,The Killer Question,4,0,3
+115,Katherine Center,Romance,3,958,4.67,5,14,4.34,Tier 3: Solid Frequent Author,The Bodyguard,5,2,3
+148,Mary Kay Andrews,Romance,3,1406,4.67,5,14,4.34,Tier 3: Solid Frequent Author,"Savannah Blues (Weezie and Bebe Mysteries, #1)",5,2,3
+164,Rebecca Serle,Romance,3,536,4.67,5,14,4.34,Tier 3: Solid Frequent Author,The Dinner List,5,2,3
+38,Catherine Bruns,Mystery,4,882,3.5,3.5,14,3.62,Tier 3: Solid Frequent Author,Baked to Death (Cookies & Chance Mystery #2),4,0,2
+192,Victoria Gilbert,Mystery,4,1271,3.25,3,13,3.45,Tier 3: Solid Frequent Author,Shelved Under Murder (Blue Ridge Library Mysteries #2),4,0,1
+39,Catherine Mack,Mystery,3,984,4,4,12,3.94,Tier 3: Solid Frequent Author,"Every Time I Go on Vacation, Someone Dies (The Vacation Mysteries, #1)",5,1,2
+55,Dorothy Howell,Mystery,3,910,4,4,12,3.94,Tier 3: Solid Frequent Author,"Shoulder Bags and Shootings (Haley Randolph, #3)",4,0,3
+122,Kristen Perrin,Mystery,3,1017,4,4,12,3.94,Tier 3: Solid Frequent Author,How to Cheat Your Own Death (Castle Knoll Files #3),4,0,3
+149,Maureen Johnson,Mystery,3,1177,4,4,12,3.94,Tier 3: Solid Frequent Author,"The Hand on the Wall (Truly Devious, #3)",4,0,3
+170,Robert Thorogood,Mystery,3,772,4,4,12,3.94,Tier 3: Solid Frequent Author,"Murder on the Marlow Belle (Marlow Murder Club, #4)",5,1,2
+132,Lea Wait,Mystery,4,1065,3,3,12,3.29,Tier 3: Solid Frequent Author,"Dangling by a Thread (Mainely Needlepoint, #4)",3,0,0
+9,Alice Feeney,Thriller,3,966,3.67,4,11,3.74,Tier 3: Solid Frequent Author,Rock Paper Scissors,4,0,2
+43,Christin Brecher,Mystery,3,752,3.67,4,11,3.74,Tier 3: Solid Frequent Author,15 Minutes of Flame (Nantucket Candle Maker Mystery #3),4,0,2
+91,Jennifer Lynn Barnes,Mystery,3,1139,3.67,3,11,3.74,Tier 3: Solid Frequent Author,"The Inheritance Games (The Inheritance Games, #1)",5,1,1
+128,Laura Levine,Mystery,3,677,3.67,4,11,3.74,Tier 3: Solid Frequent Author,The Dangers of Candy Canes (Jaine Austen),4,0,2
+150,Meg Cabot,Romance,3,1342,3.67,3,11,3.74,Tier 3: Solid Frequent Author,"The Boy Next Door (Boy, #1)",5,1,1
+157,Mindy Quigley,Mystery,3,978,3.67,4,11,3.74,Tier 3: Solid Frequent Author,"Ashes to Ashes, Crust to Crust (Deep Dish Mysteries #2)",4,0,2
+187,Tana French,Mystery,3,1500,3.67,4,11,3.74,Tier 3: Solid Frequent Author,"The Likeness (Dublin Murder Squad, #2)",4,0,2
+10,Ally Carter,Romance,2,679,5,5,10,4.43,Tier 3: Solid Frequent Author,The Most Wonderful Crime of the Year,5,2,2
+26,Audrey Bellezza,Romance,2,765,5,5,10,4.43,Tier 3: Solid Frequent Author,Elizabeth of East Hampton (For the Love of Austen #2),5,2,2
+64,Emily Henry,Romance,2,827,5,5,10,4.43,Tier 3: Solid Frequent Author,Great Big Beautiful Life,5,2,2
+65,Emma Rosenblum,Thriller,2,549,5,5,10,4.43,Tier 3: Solid Frequent Author,Mean Moms,5,2,2
+79,Holly Jackson,Mystery,2,828,5,5,10,4.43,Tier 3: Solid Frequent Author,Five Survive,5,2,2
+107,Julia Seales,Mystery,2,660,5,5,10,4.43,Tier 3: Solid Frequent Author,"A Terribly Nasty Business (Beatrice Steele, #2)",5,2,2
+183,Sophie Kinsella,Romance,2,868,5,5,10,4.43,Tier 3: Solid Frequent Author,The Burnout,5,2,2
+126,Laura Childs,Fiction,3,794,3.33,3,10,3.54,Tier 3: Solid Frequent Author,"Photo Finished (A Scrapbooking Mystery, #2)",4,0,1
+137,Lisa Unger,Thriller,3,1144,3.33,4,10,3.54,Tier 3: Solid Frequent Author,Close Your Eyes and Count to 10,4,0,2
+159,Nora Roberts,Romance,3,748,3.33,3,10,3.54,Tier 3: Solid Frequent Author,"Savor the Moment (Bride Quartet, #3)",4,0,1
+171,Ruth Ware,Thriller,3,1097,3.33,3,10,3.54,Tier 3: Solid Frequent Author,One Perfect Couple,4,0,1
+16,Ann Claire,Mystery,2,659,4.5,4.5,9,4.18,Tier 3: Solid Frequent Author,"Dead and Gondola (Christie Bookshop, #1)",5,1,2
+99,Jo Piazza,Thriller,2,715,4.5,4.5,9,4.18,Tier 3: Solid Frequent Author,Everyone Is Lying to You,5,1,2
+165,Rebecca Yarros,Fantasy,3,2309,3,3,9,3.34,Tier 3: Solid Frequent Author,"Onyx Storm (The Empyrean, #3)",3,0,0
+7,Alex Michaelides,Thriller,2,630,4,4,8,3.93,Tier 3: Solid Frequent Author,The Maidens,5,1,1
+18,Anne Marie Stoddard,Mystery,2,486,4,4,8,3.93,Tier 3: Solid Frequent Author,"Tiaras & Terror (Aloha Lagoon Mysteries, #13)",4,0,2
+21,Ashley Elston,Mystery,2,695,4,4,8,3.93,Tier 3: Solid Frequent Author,First Lie Wins,5,1,1
+28,Bellamy Rose,Mystery,2,527,4,4,8,3.93,Tier 3: Solid Frequent Author,Pomona Afton Can Totally Catch a Killer: A Novel (The Pomona Afton series Book 2),4,0,2
+51,Deanna Raybourn,Historical Fiction,2,714,4,4,8,3.93,Tier 3: Solid Frequent Author,Kills Well with Others (Killers of a Certain Age #2),4,0,2
+68,Gillian McAllister,Thriller,2,779,4,4,8,3.93,Tier 3: Solid Frequent Author,Famous Last Words,5,1,1
+116,Katherine St. John,Romance,2,785,4,4,8,3.93,Tier 3: Solid Frequent Author,The Lion's Den,5,1,1
+154,Mia P. Manansala,Fiction,2,603,4,4,8,3.93,Tier 3: Solid Frequent Author,"Death and Dinuguan (Tita Rosie's Kitchen Mystery, #6)",4,0,2
+49,David Baldacci,Fiction,2,1026,3.5,3.5,7,3.68,Tier 3: Solid Frequent Author,"One Good Deed (Archer, #1)",4,0,1
+88,Jason Rekulak,Thriller,2,727,3.5,3.5,7,3.68,Tier 3: Solid Frequent Author,The Last One at the Wedding,4,0,1
+90,Jeneva Rose,Mystery,2,610,3.5,3.5,7,3.68,Tier 3: Solid Frequent Author,One of Us Is Dead,4,0,1
+95,Jessa Maxwell,Mystery,2,576,3.5,3.5,7,3.68,Tier 3: Solid Frequent Author,The Golden Spoon,4,0,1
+134,Linda Reilly,Mystery,2,632,3.5,3.5,7,3.68,Tier 3: Solid Frequent Author,No Parm No Foul (Grilled Cheese Mysteries #2),4,0,1
+141,Louise Penny,Mystery,2,832,3.5,3.5,7,3.68,Tier 3: Solid Frequent Author,"A World of Curiosities (Chief Inspector Armand Gamache, #18)",4,0,1
+145,Marty Wingate,Fiction,2,669,3.5,3.5,7,3.68,Tier 3: Solid Frequent Author,"The Bodies in the Library (First Edition Library Mystery, #1)",4,0,1
+168,Riley Sager,Thriller,2,770,3.5,3.5,7,3.68,Tier 3: Solid Frequent Author,The Only One Left,4,0,1
+125,L.M. Chilton,Mystery,2,671,3,3,6,3.43,Tier 3: Solid Frequent Author,Everyone in the Group Chat Dies,3,0,0
+173,Sally J. Smith,Mystery,2,372,3,3,6,3.43,Tier 3: Solid Frequent Author,Beachboy Murder (Aloha Lagoon Mysteries #11),3,0,0
+13,Amy Tintera,Thriller,1,338,5,5,5,4.24,Tier 4: Single-Book Read,Listen for the Lie,5,1,1
+14,Ande Pliego,Mystery,1,371,5,5,5,4.24,Tier 4: Single-Book Read,You Are Fatally Invited,5,1,1
+22,Ashley Flowers,Mystery,1,312,5,5,5,4.24,Tier 4: Single-Book Read,All Good People Here,5,1,1
+34,Carley Fortune,Romance,1,396,5,5,5,4.24,Tier 4: Single-Book Read,"One Golden Summer (Barry's Bay, #2)",5,1,1
+52,Devon Daniels,Romance,1,380,5,5,5,4.24,Tier 4: Single-Book Read,The Rom Con,5,1,1
+58,Ellen Raskin,Children's Fiction,1,185,5,5,5,4.24,Tier 4: Single-Book Read,The Westing Game,5,1,1
+62,Ellie Palmer,Mystery,1,368,5,5,5,4.24,Tier 4: Single-Book Read,Four Weekends and a Funeral,5,1,1
+83,Jakob Kerr,Mystery,1,416,5,5,5,4.24,Tier 4: Single-Book Read,Dead Money,5,1,1
+111,Karen Dukess,Mystery,1,304,5,5,5,4.24,Tier 4: Single-Book Read,Welcome to Murder Week,5,1,1
+131,Lauren Okie,Romance,1,416,5,5,5,4.24,Tier 4: Single-Book Read,The Best Worst Thing,5,1,1
+142,Lucy Sykes,Romance,1,304,5,5,5,4.24,Tier 4: Single-Book Read,Fitness Junkie,5,1,1
+144,Maria DiRico,Mystery,1,304,5,5,5,4.24,Tier 4: Single-Book Read,Here Comes the Body (A Catering Hall Mystery #1),5,1,1
+153,Melissa Wiesner,Romance,1,328,5,5,5,4.24,Tier 4: Single-Book Read,The Second Chance Year,5,1,1
+156,Michelle Markowitz,Fiction,1,274,5,5,5,4.24,Tier 4: Single-Book Read,"Hey Ladies!: The Story of 8 Best Friends, 1 Year, and Way, Way Too Many Emails",5,1,1
+175,Sangu Mandanna,Fantasy,1,336,5,5,5,4.24,Tier 4: Single-Book Read,A Witch's Guide to Magical Innkeeping,5,1,1
+179,Shari Lapena,Thriller,1,362,5,5,5,4.24,Tier 4: Single-Book Read,She Didn't See It Coming,5,1,1
+180,Shelby Van Pelt,Romance,1,360,5,5,5,4.24,Tier 4: Single-Book Read,Remarkably Bright Creatures,5,1,1
+185,Sulari Gentill,Mystery,1,288,5,5,5,4.24,Tier 4: Single-Book Read,The Woman in the Library,5,1,1
+191,Veronica Bond,Mystery,1,288,5,5,5,4.24,Tier 4: Single-Book Read,Death in Castle Dark (A Dinner and a Murder Mystery #1),5,1,1
+194,Will Ferguson,Mystery,1,324,5,5,5,4.24,Tier 4: Single-Book Read,"I Only Read Murder (Miranda Abbott Mystery, #1)",5,1,1
+4,Aimee Gilchrist,Mystery,1,223,4,4,4,3.91,Tier 4: Single-Book Read,Mele Kalikimaka Murder (Aloha Lagoon Mysteries #5),4,0,1
+5,Aisha Saeed,Romance,1,320,4,4,4,3.91,Tier 4: Single-Book Read,The Matchmaker,4,0,1
+11,Ally Condie,Romance,1,320,4,4,4,3.91,Tier 4: Single-Book Read,The Unwedding,4,0,1
+23,Ashley Poston,Romance,1,378,4,4,4,3.91,Tier 4: Single-Book Read,A Novel Love Story,4,0,1
+30,Beth O'Leary,Romance,1,400,4,4,4,3.91,Tier 4: Single-Book Read,The Flatshare,4,0,1
+31,Beth Prentice,Mystery,1,241,4,4,4,3.91,Tier 4: Single-Book Read,"Deadly Wipeout (Aloha Lagoon Mysteries, #3)",4,0,1
+41,Charles Osborne,Mystery,1,290,4,4,4,3.91,Tier 4: Single-Book Read,"Black Coffee (Hercule Poirot, #7.5)",4,0,1
+45,Cleo Coyle,Mystery,1,362,4,4,4,3.91,Tier 4: Single-Book Read,"No Roast for the Weary (Coffeehouse Mystery, #21)",4,0,1
+50,David Ellis,Thriller,1,464,4,4,4,3.91,Tier 4: Single-Book Read,Look Closer,4,0,1
+61,Ellie Alexander,Mystery,1,258,4,4,4,3.91,Tier 4: Single-Book Read,"Muffin But the Truth (A Bakeshop Mystery, #16)",4,0,1
+63,Emily Giffin,Romance,1,368,4,4,4,3.91,Tier 4: Single-Book Read,The Summer Pact,4,0,1
+70,Gina LaManna,Thriller,1,332,4,4,4,3.91,Tier 4: Single-Book Read,Pretty Guilty Women,4,0,1
+71,Ginny Baird,Romance,1,352,4,4,4,3.91,Tier 4: Single-Book Read,The Holiday Mix-Up,4,0,1
+72,Gloria Chao,Mystery,1,318,4,4,4,3.91,Tier 4: Single-Book Read,The Ex-Girlfriend Murder Club,4,0,1
+73,Graham Moore,Historical Fiction,1,336,4,4,4,3.91,Tier 4: Single-Book Read,The Holdout,4,0,1
+96,Jessica Knoll,Thriller,1,385,4,4,4,3.91,Tier 4: Single-Book Read,The Favorite Sister,4,0,1
+98,Jim Butcher,Fantasy,1,352,4,4,4,3.91,Tier 4: Single-Book Read,"Storm Front (The Dresden Files, #1)",4,0,1
+105,Judith Flanders,Mystery,1,286,4,4,4,3.91,Tier 4: Single-Book Read,A Murder of Magpies: A Novel (Sam Clair Book 1),4,0,1
+106,Julia Bartz,Thriller,1,320,4,4,4,3.91,Tier 4: Single-Book Read,The Writing Retreat,4,0,1
+108,Jumata Emill,Mystery,1,388,4,4,4,3.91,Tier 4: Single-Book Read,I Don't Wish You Well,4,0,1
+109,Jussi Adler-Olsen,Mystery,1,418,4,4,4,3.91,Tier 4: Single-Book Read,"The Keeper of Lost Causes (Department Q, #1)",4,0,1
+112,Karen M. McManus,Mystery,1,358,4,4,4,3.91,Tier 4: Single-Book Read,Nothing More to Tell,4,0,1
+113,Katarina Bivald,Mystery,1,392,4,4,4,3.91,Tier 4: Single-Book Read,"The Murders in Great Diddling (Berit Gardner, #1)",4,0,1
+118,Kathleen West,Mystery,1,432,4,4,4,3.91,Tier 4: Single-Book Read,Making Friends Can Be Murder,4,0,1
+123,Kristin Miller,Mystery,1,288,4,4,4,3.91,Tier 4: Single-Book Read,The Sinful Lives of Trophy Wives,4,0,1
+124,Kristyn J. Miller,Romance,1,352,4,4,4,3.91,Tier 4: Single-Book Read,Seven Rules for Breaking Hearts,4,0,1
+127,Laura Dave,Thriller,1,306,4,4,4,3.91,Tier 4: Single-Book Read,The Night We Lost Him,4,0,1
+129,Laura Lippman,Mystery,1,269,4,4,4,3.91,Tier 4: Single-Book Read,Murder Takes a Vacation (Mrs. Blossom Mystery #1),4,0,1
+146,Mary Higgins Clark,Mystery,1,288,4,4,4,3.91,Tier 4: Single-Book Read,It Had to Be You (Under Suspicion #8),4,0,1
+152,Megan Lally,Thriller,1,301,4,4,4,3.91,Tier 4: Single-Book Read,That's Not My Name,4,0,1
+178,Sarah Reida,Mystery,1,320,4,4,4,3.91,Tier 4: Single-Book Read,Neighborhood Watch,4,0,1
+181,Sherry Thomas,Historical Fiction,1,368,4,4,4,3.91,Tier 4: Single-Book Read,The Librarians,4,0,1
+182,Sophie Cousens,Romance,1,367,4,4,4,3.91,Tier 4: Single-Book Read,Is She Really Going Out with Him?,4,0,1
+186,Susie Dent,Mystery,1,378,4,4,4,3.91,Tier 4: Single-Book Read,Guilty by Definition (The Clarendon Lexicographers #1),4,0,1
+1,A.J. Finn,Thriller,1,408,3,3,3,3.57,Tier 4: Single-Book Read,End of Story,3,0,0
+8,Alexandra Benedict,Mystery,1,322,3,3,3,3.57,Tier 4: Single-Book Read,The Christmas Murder Game,3,0,0
+12,Amanda Jayatissa,Thriller,1,384,3,3,3,3.57,Tier 4: Single-Book Read,You're Invited,3,0,0
+25,Asia Mackay,Mystery,1,334,3,3,3,3.57,Tier 4: Single-Book Read,A Serial Killer's Guide to Marriage,3,0,0
+33,Brenda Novak,Romance,1,367,3,3,3,3.57,Tier 4: Single-Book Read,The Summer That Changed Everything,3,0,0
+36,Carrie Doyle,Mystery,1,384,3,3,3,3.57,Tier 4: Single-Book Read,The Murder Game,3,0,0
+40,Chandler Baker,Thriller,1,348,3,3,3,3.57,Tier 4: Single-Book Read,The Husbands,3,0,0
+48,Daryl Wood Gerber,Mystery,1,337,3,3,3,3.57,Tier 4: Single-Book Read,Murder on the Page (Literary Dining Mysteries #1),3,0,0
+56,Edgar Cantero,Mystery,1,330,3,3,3,3.57,Tier 4: Single-Book Read,Meddling Kids,3,0,0
+59,Ellery Adams,Mystery,1,322,3,3,3,3.57,Tier 4: Single-Book Read,"The Secret, Book & Scone Society (Secret, Book, & Scone Society, #1)",3,0,0
+60,Ellery Lloyd,Thriller,1,303,3,3,3,3.57,Tier 4: Single-Book Read,The Club,3,0,0
+66,Evelyn Clarke,Mystery,1,343,3,3,3,3.57,Tier 4: Single-Book Read,The Ending Writes Itself,3,0,0
+69,Gilly Macmillan,Thriller,1,336,3,3,3,3.57,Tier 4: Single-Book Read,The Long Weekend,3,0,0
+74,Hank Phillippi Ryan,Mystery,1,345,3,3,3,3.57,Tier 4: Single-Book Read,The First to Lie: A Novel,3,0,0
+78,HelenKay Dimon,Thriller,1,360,3,3,3,3.57,Tier 4: Single-Book Read,"The Usual Family Mayhem: A Hilarious Mystery with a Suspenseful Twist, Indulge in Some Sweet Revenge",3,0,0
+84,James Patterson,Mystery,1,352,3,3,3,3.57,Tier 4: Single-Book Read,"Holmes, Marple & Poe (Holmes, Margaret & Poe, #1)",3,0,0
+89,Jeff Lindsay,Mystery,1,288,3,3,3,3.57,Tier 4: Single-Book Read,"Darkly Dreaming Dexter (Dexter, #1)",3,0,0
+92,Jenny Elder Moke,Mystery,1,336,3,3,3,3.57,Tier 4: Single-Book Read,She Doesn't Have a Clue,3,0,0
+97,Jessie Garcia,Mystery,1,341,3,3,3,3.57,Tier 4: Single-Book Read,The Business Trip,3,0,0
+101,Joanna Schaffhausen,Mystery,1,294,3,3,3,3.57,Tier 4: Single-Book Read,"Gone for Good (Detective Annalisa Vega, #1)",3,0,0
+102,Joanne Fluke,Mystery,1,385,3,3,3,3.57,Tier 4: Single-Book Read,Gingerbread Cookie Murder,3,0,0
+104,Joseph R. Garber,Thriller,1,322,3,3,3,3.57,Tier 4: Single-Book Read,Vertical Run,3,0,0
+110,K.J. Whittle,Mystery,1,352,3,3,3,3.57,Tier 4: Single-Book Read,Seven Reasons to Murder Your Dinner Guests,3,0,0
+117,Katherine Wood,Mystery,1,357,3,3,3,3.57,Tier 4: Single-Book Read,Ladykiller,3,0,0
+120,Katie Williams,Mystery,1,304,3,3,3,3.57,Tier 4: Single-Book Read,My Murder,3,0,0
+121,Kelly Mullen,Thriller,1,319,3,3,3,3.57,Tier 4: Single-Book Read,This Is Not a Game,3,0,0
+138,Liz Moore,Mystery,1,562,3,3,3,3.57,Tier 4: Single-Book Read,The God of the Woods,3,0,0
+147,Mary Jo Burke,Mystery,1,167,3,3,3,3.57,Tier 4: Single-Book Read,Deadly Bubbles in the Wine (Aloha Lagoon Mysteries #4),3,0,0
+151,Megan Collins,Thriller,1,320,3,3,3,3.57,Tier 4: Single-Book Read,Thicker Than Water,3,0,0
+158,Nancy J. Cohen,Mystery,1,271,3,3,3,3.57,Tier 4: Single-Book Read,Permed to Death (Bad Hair Day #1),3,0,0
+161,Patricia Daniels Cornwell,Mystery,1,449,3,3,3,3.57,Tier 4: Single-Book Read,"Postmortem (Kay Scarpetta, #1)",3,0,0
+162,Rachel Hawkins,Thriller,1,281,3,3,3,3.57,Tier 4: Single-Book Read,The Heiress,3,0,0
+176,Sara Desai,Romance,1,415,3,3,3,3.57,Tier 4: Single-Book Read,To Have and to Heist,3,0,0
+177,Sarah Adler,Romance,1,416,3,3,3,3.57,Tier 4: Single-Book Read,Happy Medium,3,0,0
+188,Tara Laskowski,Thriller,1,320,3,3,3,3.57,Tier 4: Single-Book Read,The Mother Next Door,3,0,0
+189,V.M. Burns,Mystery,1,231,3,3,3,3.57,Tier 4: Single-Book Read,The Plot is Murder (Mystery Bookshop #1),3,0,0
+193,Vivien Chien,Mystery,1,328,3,3,3,3.57,Tier 4: Single-Book Read,"Death by Dumpling (Noodle Shop Mystery, #1)",3,0,0
+24,Ashley Tate,Mystery,1,377,2,2,2,3.24,Tier 4: Single-Book Read,Twenty-Seven Minutes,2,0,0
+35,Carol J. Perry,Fantasy,1,414,2,2,2,3.24,Tier 4: Single-Book Read,Caught Dead Handed (Witch City #1),2,0,0
+37,Carter Wilson,Mystery,1,435,2,2,2,3.24,Tier 4: Single-Book Read,Tell Me What You Did,2,0,0
+47,Dane McCaslin,Mystery,1,276,2,2,2,3.24,Tier 4: Single-Book Read,Photo Finished (Aloha Lagoon Mysteries #14),2,0,0
+80,Ian Moore,Mystery,1,254,2,2,2,3.24,Tier 4: Single-Book Read,Death and Croissants,2,0,0
+136,Lisa Jackson,Thriller,1,444,2,2,2,3.24,Tier 4: Single-Book Read,The Girl Who Survived,2,0,0
+140,Louise Hegarty,Thriller,1,288,2,2,2,3.24,Tier 4: Single-Book Read,Fair Play: A Novel,2,0,0
+160,Olivia Muenter,Romance,1,336,2,2,2,3.24,Tier 4: Single-Book Read,Such a Bad Influence,2,0,0
+163,Rachel Howzell Hall,Thriller,1,307,2,2,2,3.24,Tier 4: Single-Book Read,They All Fall Down,2,0,0
+172,S.K. Golden,Mystery,1,325,2,2,2,3.24,Tier 4: Single-Book Read,"The Socialite’s Guide to Death and Dating (Pinnacle Hotel Mystery, #2)",2,0,0
+20,Arturo Pérez-Reverte,Historical Fiction,1,303,1,1,1,2.91,Tier 4: Single-Book Read,The Final Problem: A Novel,1,0,0
+75,Hannah Selinger,Thriller,1,292,1,1,1,2.91,Tier 4: Single-Book Read,Valley of the Moms: A Novel,1,0,0
+77,Hazell Ward,Mystery,1,454,1,1,1,2.91,Tier 4: Single-Book Read,The Game Is Murder,1,0,0

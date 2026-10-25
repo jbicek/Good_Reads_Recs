@@ -1,0 +1,8 @@
+primary_genre,books_read,total_pages,avg_decimal_rating,median_rating,rating_sd,four_plus_pct,five_star_pct,pct_of_library,top_author,genre_rank
+Mystery,392,127013,3.8,4,0.72,65.8,16.1,71.3,J.D. Robb,1
+Romance,57,20751,4.28,4,0.82,80.7,49.1,10.4,Elin Hilderbrand,2
+Thriller,55,19357,3.62,4,0.95,52.7,20,10,Harlan Coben,3
+Fantasy,28,12129,4.21,4.5,0.92,75,50,5.1,Angie Sage,4
+Fiction,8,2681,3.75,4,0.71,62.5,12.5,1.5,David Baldacci,5
+Children's Fiction,5,934,5,5,0,100,100,0.9,Louis Sachar,6
+Historical Fiction,5,1721,3.4,4,1.34,80,0,0.9,Deanna Raybourn,7

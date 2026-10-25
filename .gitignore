@@ -71,6 +71,9 @@ ENV/
 *.sqlite3
 *.db-journal
 
+# API Cache
+data/cache/
+
 # macOS
 .DS_Store
 .AppleDouble

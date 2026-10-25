@@ -1,0 +1,15 @@
+# Database Configuration (PostgreSQL / SQLite)
+DB_TYPE=postgres
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=goodreads_analytics
+DB_USER=postgres
+DB_PASSWORD=your_password_here
+
+# SQLite Alternative Database File Path
+SQLITE_PATH=data/goodreads_analytics.db
+
+# Optional APIs for Genre / Metadata Enrichment (Phase 2)
+GOOGLE_BOOKS_API_KEY=
+OPEN_LIBRARY_USER_AGENT=TableauGoodreadsRecs/1.0 (your_email@example.com)
+
